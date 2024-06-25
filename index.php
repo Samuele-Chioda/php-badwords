@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -8,9 +9,6 @@
 </head>
 
 <body>
-    <head>
-        
-    </head>
     <main>
         <?php
         $paragrafo = "ciao ciao ciao ciao";
