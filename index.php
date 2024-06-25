@@ -8,6 +8,9 @@
 </head>
 
 <body>
+    <head>
+        
+    </head>
     <main>
         <?php
         $paragrafo = "ciao ciao ciao ciao";
